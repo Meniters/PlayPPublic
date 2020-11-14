@@ -1,0 +1,23 @@
+ p1 {
+  color:green;
+  text-align:center;
+  font-size: 150px;
+  font-family:Verdana,sans-serif;
+  margin-left: 250px;
+  background-color: yellow;
+  padding:10px;
+  border:2px solid black;
+  width: 100px;
+  margin: : +30px;
+}
+p2 {
+  font-size: 150px;
+  font-family: Helvetica,sans-serif;
+  color: white;
+  margin-bottom: 1000px;
+  padding: 10px;
+  border: 2px solid black;
+  margin-left: 295px;
+  background-color: red;
+
+}
